@@ -93,7 +93,6 @@ createTestimonials()
 
 
 
-
 // for (let i = 0; i<headings.length; i++){
 //   headings[i].style.transform = 'translateX(0)'
 // }
